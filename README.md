@@ -1,2 +1,15 @@
-# coding-practice-notes
-My notes and solutions for coding problems
+# 刷题笔记
+这是我的算法刷题笔记仓库，用于记录我在各平台的刷题过程、解题思路和总结。第一次使用Github。
+
+## 仓库结构
+- leetcode/: LeetCode平台的题目，按照主题分类
+- other-platforms/: 其他平台的题目
+- resources/: 学习资源和算法笔记
+
+## 学习计划
+1. 按照卡码的算法训练营每天坚持打卡
+2. 按照以下顺序学习主题：数组 -> 链表 -> 哈希表 -> 字符串、栈与队列、二叉树、回溯、贪心、动态规划、单调栈、图论
+
+## 统计
+- 已完成题目：0
+- 当前专注：数组基础题
