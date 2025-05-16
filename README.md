@@ -5,7 +5,8 @@
 每学完一类题目，编写该类题目的解题模式和技巧总结.  
 不要只贴代码，记录思考过程、尝试过的方法和犯过的错误，便于复习  
 添加图解，对于复杂算法，可以添加手绘图或流程图
-![image](https://github.com/user-attachments/assets/9b29a886-411b-4589-a245-f8d28d3ab504)
+![image](https://github.com/user-attachments/assets/89b5537d-32fd-4566-b50e-909f8a3850fb)
+
 
 
 ## 仓库结构
